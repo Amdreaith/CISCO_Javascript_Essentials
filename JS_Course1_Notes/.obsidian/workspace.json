@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2e3e905ed980de3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9070f4abe89bc02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bb255ee22da35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "II Variables, Data Types, Type Casting, and Comments/2. Data Types and Casting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Data Types and Casting"
+            }
+          },
+          {
+            "id": "003d349809508de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "III Operators and User Interaction/3.0 Section 1 - Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.0 Section 1 - Operators"
+            }
+          },
+          {
+            "id": "f2763896ce99bd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "III Operators and User Interaction/3.1 String Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 String Operators"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daab9fcf02cd2e0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "288088f1b8fe2f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3cb7cfe6a6472d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c394a80112195af5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4291632dc6c06990",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "15fa2044860e49ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5d10f59e1bb931e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47559d034185eb99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f6554fe1be84f952",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "575b0fa253197988",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1c567bbc73f3ab5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2763896ce99bd4a",
+  "lastOpenFiles": [
+    "Pasted image 20250606135408.png",
+    "Pasted image 20250606135354.png",
+    "Pasted image 20250606130915.png",
+    "III Operators and User Interaction/3.0 Section 1 - Operators.md",
+    "III Operators and User Interaction/3.1 String Operators.md",
+    "II Variables, Data Types, Type Casting, and Comments/2. Data Types and Casting.md",
+    "Pasted image 20250604185856.png",
+    "Pasted image 20250604185807.png",
+    "Pasted image 20250604182852.png",
+    "Pasted image 20250604182758.png",
+    "I Introduction to JS and Computer Porgramming/Introduction.md",
+    "II Variables, Data Types, Type Casting, and Comments/1. Variables.md",
+    "Pasted image 20250603204730.png",
+    "Pasted image 20250527131815.png",
+    "Pasted image 20250527124729.png",
+    "Pasted image 20250527124719.png",
+    "II Variables, Data Types, Type Casting, and Comments/3. Comments.md",
+    "3.   Comments",
+    "VI Errors, exceptions, debugging, and troubleshooting",
+    "V FUNCTIONS",
+    "IV Control Flow – Conditional Execution and Loops",
+    "III Operators and User Interaction",
+    "II Variables, Data Types, Type Casting, and Comments",
+    "I Introduction to JS and Computer Porgramming",
+    "I Introduction to JS"
+  ]
+}
