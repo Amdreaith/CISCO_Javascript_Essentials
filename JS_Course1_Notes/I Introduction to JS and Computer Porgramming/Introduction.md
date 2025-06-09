@@ -37,5 +37,4 @@ code :
 
 3. How can we run our JavaScript code?
 
-![[Pasted image 20250522003423.png]]
-3. 
+![image](https://github.com/user-attachments/assets/a90bbad1-1698-4157-876f-1945068dfc93)
