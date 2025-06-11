@@ -48,9 +48,93 @@
               "icon": "lucide-file",
               "title": "3.1 String Operators"
             }
+          },
+          {
+            "id": "bb4fdbcba094f096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV Control Flow – Conditional Execution and Loops/4.01 Conditional Executions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.01 Conditional Executions"
+            }
+          },
+          {
+            "id": "3efe25d77538c116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV Control Flow – Conditional Execution and Loops/4.02 Loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.02 Loops"
+            }
+          },
+          {
+            "id": "15b168bf13baeef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V FUNCTIONS/5.01 Functions part 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.01 Functions part 1"
+            }
+          },
+          {
+            "id": "32fbb6dbac22bb2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV Control Flow – Conditional Execution and Loops/4.02 Loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.02 Loops"
+            }
+          },
+          {
+            "id": "48b298da56ce4d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VI Errors, exceptions, debugging, and troubleshooting/6.01  Errors and Exceptions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.01  Errors and Exceptions"
+            }
+          },
+          {
+            "id": "03381988b19fd767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VI Errors, exceptions, debugging, and troubleshooting/6.01  Errors and Exceptions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.01  Errors and Exceptions"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -195,25 +279,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2763896ce99bd4a",
+  "active": "03381988b19fd767",
   "lastOpenFiles": [
-    "Pasted image 20250606135408.png",
-    "Pasted image 20250606135354.png",
-    "Pasted image 20250606130915.png",
-    "III Operators and User Interaction/3.0 Section 1 - Operators.md",
+    "VI Errors, exceptions, debugging, and troubleshooting/6.02Code debugging and Troubleshooting.md",
+    "VI Errors, exceptions, debugging, and troubleshooting/6.01  Errors and Exceptions.md",
+    "IV Control Flow – Conditional Execution and Loops/4.01 Conditional Executions.md",
+    "IV Control Flow – Conditional Execution and Loops/4.02 Loops.md",
+    "V FUNCTIONS/5.01 Functions part 1.md",
+    "V FUNCTIONS/5.02 Functions Part 2.md",
     "III Operators and User Interaction/3.1 String Operators.md",
-    "II Variables, Data Types, Type Casting, and Comments/2. Data Types and Casting.md",
-    "Pasted image 20250604185856.png",
-    "Pasted image 20250604185807.png",
-    "Pasted image 20250604182852.png",
-    "Pasted image 20250604182758.png",
-    "I Introduction to JS and Computer Porgramming/Introduction.md",
-    "II Variables, Data Types, Type Casting, and Comments/1. Variables.md",
-    "Pasted image 20250603204730.png",
-    "Pasted image 20250527131815.png",
-    "Pasted image 20250527124729.png",
-    "Pasted image 20250527124719.png",
-    "II Variables, Data Types, Type Casting, and Comments/3. Comments.md",
+    "III Operators and User Interaction/3.0 Section 1 - Operators.md",
+    "II Variables, Data Types, Type Casting, and Comments/2.03. Comments.md",
+    "II Variables, Data Types, Type Casting, and Comments/2.02. Data Types and Casting.md",
+    "II Variables, Data Types, Type Casting, and Comments/2.01. Variables.md",
+    "I Introduction to JS and Computer Porgramming/1.01 Introduction.md",
+    "VVV. img ENDDD VVVV",
+    "VVV. img ENDDD VVVV/Pasted image 20250522003423.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250606135408.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250606135354.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250606130915.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250604185856.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250604185807.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250604182852.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250604182758.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250603204730.png",
+    "VVV. img ENDDD VVVV/Pasted image 20250527131815.png",
     "3.   Comments",
     "VI Errors, exceptions, debugging, and troubleshooting",
     "V FUNCTIONS",
